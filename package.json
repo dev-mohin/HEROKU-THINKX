@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "npm": "6.9.0"
   },
   "files": [
     "dist/apps/thinkx",
